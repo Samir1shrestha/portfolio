@@ -336,7 +336,7 @@
     padding-top: 0;
   }
   .info li .first-block {
-    width: 40%;
+    width: 30%;
     display: inline-block;
     float: left;
     color: #000;
@@ -1295,6 +1295,12 @@
   .hover a:hover{
     color: #ffffff;
     text-decoration: none;
+  }
+  .timeline-title{
+    color: white;
+  }
+  .timeline-body p{
+    color: rgb(223, 217, 217);
   }
   /* .fh5co-loader {
     position: fixed;
